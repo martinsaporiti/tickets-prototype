@@ -7,6 +7,8 @@ You can think in the case of one bank. When one user comes, he takes a ticket wi
 
 After a time, one employee of the bank can take a ticket with a number from the queue. Now, the user that has that number and was waiting is notified (views his ticket number and desk in a tv).
 
+Watch [Demo](https://youtu.be/oLjeVvUVuyo).
+
 ## Installation & Start.
 
 ```bash

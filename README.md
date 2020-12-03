@@ -9,11 +9,13 @@ After a time, one employee of the bank can take a ticket with a number from the 
 
 Watch [Demo](https://youtu.be/oLjeVvUVuyo).
 
-## Installation & Start.
+## Dependencies Installation.
 
 ```bash
 npm install
 ```
+
+## Run!
 
 ```bash
 node server/server.js
